@@ -1,2 +1,2 @@
 # jsClock
- 
+ jsclock patika ödevi
